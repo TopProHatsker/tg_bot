@@ -1,0 +1,2 @@
+1) Buttons
+2) Fix the time bug
